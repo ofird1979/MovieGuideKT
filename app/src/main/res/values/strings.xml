@@ -25,7 +25,6 @@
     <string name="pref_sort_order_label">sortOrder</string>
     <string name="pref_sort_order_key">sortKey</string>
     <string name="searchHint">enter movie name to search</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
+    
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
